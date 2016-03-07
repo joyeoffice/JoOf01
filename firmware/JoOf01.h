@@ -32,12 +32,12 @@
 //------------------------------------------------------------------------------
 // Set DEBUG to 1 for lots of lovely debug output
 //
-#define DEBUG  0
+#define DEBUGA  0
 
 //------------------------------------------------------------------------------
 // Debug directives
 //
-#if DEBUG
+#if DEBUGA
 #	define DBG_PRINT(...)    Serial.print(__VA_ARGS__)
 #	define DBG_PRINTLN(...)  Serial.println(__VA_ARGS__)
 #else

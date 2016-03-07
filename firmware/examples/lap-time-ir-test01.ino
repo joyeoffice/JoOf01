@@ -1,5 +1,5 @@
-#include "IRremote.h"
-#include "IRremoteInt.h"
+#include "JoOf01.h"
+#include "JoOf01Int.h"
 
 unsigned long currentTime;
 unsigned long lastTime = 0UL;
