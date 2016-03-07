@@ -14,8 +14,8 @@
 // Whynter A/C ARC-110WD added by Francesco Meschia
 //******************************************************************************
 
-#ifndef IRremoteint_h
-#define IRremoteint_h
+#ifndef JoOf01int_h
+#define JoOf01int_h
 
 //------------------------------------------------------------------------------
 // Include the right Arduino header

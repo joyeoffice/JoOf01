@@ -12,13 +12,13 @@
  * JVC and Panasonic protocol added by Kristian Lauszus (Thanks to zenwheel and other people at the original blog post)
  */
 
-#ifndef IRremote_h
-#define IRremote_h
+#ifndef JoOf01_h
+#define JoOf01_h
 
 //------------------------------------------------------------------------------
 // The ISR header contains several useful macros the user may wish to use
 //
-#include "IRremoteInt.h"
+#include "JoOf01Int.h"
 
 #define DECODE_RC5           1
 #define SEND_RC5             1
